@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+}
+.logo{
+    height: 50px; 
+    width: auto; 
+}
+.navbar {
+    background-color: #feae8d;
+  }
+.header{
+    min-height: 100vh;
+    background-image: linear-gradient(hsl(36, 94%, 93%, 0.5), hsl(36, 94%, 93%, 0.5)), url('../img/bg1.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navtext{
+    color: #4f2d28;
+    font-weight: bold;
+}
+.text{
+    color: #4f2d28;
+}
+.btn{
+    background-color: #feae8d;
+}
+.card1{
+    background-color: hsl(36, 94%, 93%, 0.5);
+}
+.card2{
+    background-color: hsl(36, 94%, 93%);
+}
+
+.about_us {
+    min-height: 100vh;
+    background-color:#fdcba6;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.footer{
+    min-height: 5vh;
+    background-color: #feae8d;
+}
